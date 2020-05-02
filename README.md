@@ -1,4 +1,3 @@
-This algorithm calculate the weighted median of an array in Theta(n).
-Other algorithm are provided in "Calcolo dei tempi" to compare the execution time.
-
-25/30.
+L'algoritmo calcola la mediana pesata in theta(n) in modo deterministico.
+Altri algoritmi sono stati implementati in "Calcolo dei tempi" per comparazione.
+Voto finale: 25/30.
